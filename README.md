@@ -13,6 +13,9 @@ Interested in Data Analyst, Data Engineer, and Data Scientist roles
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kmralok795&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kmralok_79) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ alok-kumar795) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokkr2211@gmail.com) 
 
@@ -28,9 +31,6 @@ Interested in Data Analyst, Data Engineer, and Data Scientist roles
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kmralok795&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
